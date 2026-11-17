@@ -1,0 +1,6 @@
+{
+  "name": "MobiHost",
+  "description": "Controle completo do computador com interface nativa de app Android: arquivos, aplicativos, terminal, mídia, área de transferência e tela remota.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
